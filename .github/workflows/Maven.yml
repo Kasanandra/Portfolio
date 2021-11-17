@@ -16,6 +16,7 @@ jobs:
 
     - name: Maven info
       run: |
+        ls
         mvn --help
         mvn --version
     
