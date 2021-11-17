@@ -14,8 +14,11 @@ jobs:
       with:
         java-version: 14
 
-    - name: Build project with Maven
+    - name: Maven info
       run: |
         mvn --help
-        # no pom yet
-        # mvn -B package --file pom.xml
+        mvn --info
+    
+    #- name: Build project with Maven
+    #  run: mvn -B package --file pom.xml
+    # no pom yet
