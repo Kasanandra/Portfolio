@@ -114,41 +114,107 @@ If so, do the following:
 ### STEP FOUR
 **Suffer damage from the enemy by discarding cards**
 
+If not defeated, the current enemy attacks the current player by dealing damage equal to that enemy's attack value.
+Remember to reduce the enemy's attack value by the total value of SPADES that players have played against the enemy.
+
+The current player must discard cards from their hand with a total value at least equal to the enemy's attack value.
+Discard the cards one at a time, faceup to the discard pile.
+It's okay to have an empty hand.
+Then, the next player takes their turn, starting at [Step one](#step-one).
+ANIMAL COMPANIONs (A) hava a value of one and the JESTER a value of zero when discarded to cover damage.
+If the player cannot discard enough cards to satisfy the damage, they die and all players lose the game.
 
 ---
 ## ENEMY IMMUNITY
 ---
 
+Each enemy is immune to the suit powers of cards played against them which match their suit.
+For example, players will not draw cards when a DIAMOND is played against the JACK of DIAMONDS (however the number is still added to the damage total).
+The JESTER can be played to cancel an enemy's immunity.
+
+
 ---
 ## PLAYING THE JESTER
 ---
+
+In [Step one](#step-one) when playing a card the JESTER may be played (always on its own).
+
+The JESTER has an attack value of 0.
+The power of the JESTERis that it negates the immunity of the enemy meaning the suit powers of cards with the same suit as the enemy will now take effect when played.
+After playing the JESTER, skip [Step three](#step-three) & [Step four](#step-four) then, instead of play moving to the next player,
+ the player of the JESTER chooses any player to go next.
+
+Players may not discuss specific cards in their hand at any time during the game however they can express their desire
+ (or reluctance) to go next in a general way after the JESTER is played.
+ 
+If the JESTER is played against a SPADES enemy, spades played prior to the JESTER will begin reducing the attack value of the enemy
+ however CLUBS played prior to the JESTER against a CLUBS enemy will not count for double.
 
 
 ---
 ## ANIMAL COMPANIONS
 ---
 
+In [Step one](#step-one), ANIMAL COMPANIONs can be played on their own, but may also be paired with one other card (except the JESTER).
+ANIMAL COMPANIONs count as 1 towards the attack total and their suit power is also applied.
+For example, when playing the 8 of DIAMONDS with the ANIMAL COMPANION of CLUBS the attack value is 9 and the effect of each suit power is applied for 9:
+ nine cards are drawn and eighteen damage is dealt.
+Any time where both a HEARTS power and a DIAMONDS power are resolved together, resolve the HEARTS healing before drawing with DIAMONDS.
+ANIMAL COMPANIONs can also be paired with other ANIMAL COMPANIONs.
+
 
 ---
 ## COMBOS
 ---
+
+In [Step one](#step-one), instead of playing a single card, players can combine cards together in sets of two, three or four of the same number
+ as long as the combined total of the cards played equals ten or less.
+So players can play a pair of 2s, 3s, 4s or 5s, triple 2s and 3s, or quadruple 2s.
+When these cards are played together all suit powers are resolved at the total attack value.
+For example, if a player ploays the 3 of DIAMONDS, SPADES and CLUBS together, players will draw nine cards, reduce the enemy's attack value by nine and deal eighteen damage.
 
 
 ---
 ## DRAWING A DEFEATED ENEMY
 ---
 
+A JACK in hand count as a 10, a QUEEN in hand count as a 15 and a KING in hand count as a 20.
+These values are applied when either playing them as an attack card or discarding them from hand to suffer damage.
+Their suit power is applied as normal when played.
+
 
 ---
 ## YIELDING
 ---
+
+During [Step one](#step-one) it may be more beneficial to yield instead of playing a card.
+To yield simply say "Yield" and move directly to [Step four](#step-four), skipping [Step two](#step-two) & [Step three](#step-three).
+All players are not allowed to yield consecutively.
 
 
 ---
 ## GAME END
 ---
 
+The game ends when the players win by defeating the last KING or when the players lose because a player is unable to satisfy the damage dealt by an enemy.
+
 
 ---
 ## SOLO PLAY
 ---
+
+When Playing with only one player note the following rule changes:
+
+Set up the game as a per usual but place the two JESTERs to the side.
+You play with a single hand limited to eight cards.
+Play as normal, playing each turn one after the other. A JESTER can be flipped to activate the following power:
+ "Discard your hand and refill to eight cards - this does not count as drawing for the purposes of enemy DIAMOND immunity."
+Since you have two JESTERs theis can be done twice per game.
+Flipping the JESTERs in this way does not cancel enemy immunity.
+You are allowed to use the JESTER power:
+ a) at the start of [Step one](#step-one) before you play a card
+ b) at the start of [Step four](#step-four) before you have to take damage
+ 
+A win having used two JESTERs = Bronze Victory  
+A win having used one JESTER  = Silver Victory
+A win having used no  Jesters = Gold Victory
